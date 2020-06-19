@@ -1,6 +1,4 @@
 # Booking Tiket
-Aplikasi Booking Tiket Pesawat Online dengan Codeigniter
+Web booking airplane service with codeigniter
 
-![alt text](https://image.prntscr.com/image/6Z7_UZ0XSGGEQ3cZKHBMvA.png)
-![alt text](https://image.prntscr.com/image/VhQWeFoFTf6WCBmgTkI4sw.png)
-![alt text](https://image.prntscr.com/image/uqwuzrUZSMqiOJ41-GyblA.png)
+![travelmate 1](https://user-images.githubusercontent.com/33762836/85167621-4f624b80-b293-11ea-98ee-c95d0c449904.jpg)
